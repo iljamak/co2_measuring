@@ -1,0 +1,6 @@
+pandas
+numpy
+matplotlib
+plotly
+gpiozero
+adafruit_scd30
