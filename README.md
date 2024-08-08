@@ -1,4 +1,4 @@
-# Project Title: CO2 Measurement Analysis with Raspberry Pi
+# CO2 Measurement Analysis with Raspberry Pi
 
 ## Introduction
 This project is a comprehensive guide and toolkit for measuring CO2 levels using a Raspberry Pi equipped with an SCD30 sensor. It includes scripts for data collection and analysis, as well as notebooks for visualizing the data.
